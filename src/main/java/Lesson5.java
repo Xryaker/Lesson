@@ -15,6 +15,7 @@ public class Lesson5 {
         student2.print();
         System.out.println("\n\n\n");
         Student.str = "Animal";
+        student.print();
 //        student.print();
 //        student2.print();
 
