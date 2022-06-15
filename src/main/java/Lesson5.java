@@ -6,7 +6,7 @@ public class Lesson5 {
 
 
 //        System.out.println(student.age);
-        String str = "Shevchenko";
+        String str = "ввввShevchenko";
         student.print();
 
         Student student1 = new Student(str, "Ivan", hhhg);
